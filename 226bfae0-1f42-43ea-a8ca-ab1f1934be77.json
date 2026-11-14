@@ -1,0 +1,1 @@
+{"id":"226bfae0-1f42-43ea-a8ca-ab1f1934be77","name":"Future Interns - Authentication Lab","values":[{"key":"accessToken","value":"","enabled":true,"type":"default","secret":true,"description":"Short-lived DummyJSON demo access token. Keep masked; never publish or share."}]}

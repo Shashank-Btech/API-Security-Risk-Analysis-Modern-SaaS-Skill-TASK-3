@@ -1,0 +1,13 @@
+Postman Collection Export (Postman Collection v2.1)
+
+Download the complete JSON export from this direct GitHub link:
+https://raw.githubusercontent.com/Shashank-Btech/portfolio-website/main/projects/future-interns-api-security-risk-analysis/postman/FutureInterns_API_Security_Risk_Analysis.postman_collection.json
+
+The collection is also viewable here:
+https://github.com/Shashank-Btech/portfolio-website/blob/main/projects/future-interns-api-security-risk-analysis/postman/FutureInterns_API_Security_Risk_Analysis.postman_collection.json
+
+Collection name: Future Interns - API Security Risk Analysis
+Collection UID: 60187889-83efec54-cc8d-4409-8c83-0ea11713fe8c
+Postman collection schema: v2.1.0
+
+Note: The environment's accessToken value is intentionally not included in the public collection export.
